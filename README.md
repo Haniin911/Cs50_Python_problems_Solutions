@@ -5,7 +5,7 @@
 ---
 
 ## Problem Set 0 
-**Name & Link:** Problem Set 0 – [Conditionals](https://cs50.harvard.edu/python/2022/psets/0/)   
+**Name & Link:** Problem Set 0 – [Functions & variables](https://cs50.harvard.edu/python/2022/psets/0/)   
 **Solution:**  
 [(https://github.com/Haniin911/Cs50_Python_problems_Solutions/tree/main/Problem%20set%200)]
  
