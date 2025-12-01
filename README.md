@@ -1,7 +1,5 @@
 # CS50’s Introduction to Programming with Python (CS50P)
 
-هذا الريبو يحتوي حلول Problem Sets من أول 7 أسابيع من دورة **CS50’s Introduction to Programming with Python**.
-
 ---
 
 ## Problem Set 0 
@@ -56,3 +54,20 @@
 **Name & Link:** Problem Set 6 – [File I/O](https://cs50.harvard.edu/python/2022/psets/6/) 
 **Solution:**
 [https://github.com/Haniin911/Cs50_Python_problems_Solutions/tree/main/Problem%20set%206]
+
+
+---
+
+## Problem Set 7  
+**Name & Link:** Problem Set 6 – [Regular Expressions](https://cs50.harvard.edu/python/2022/psets/7/) 
+**Solution:**
+[https://github.com/Haniin911/Cs50_Python_problems_Solutions/tree/main/Problem%20set%207]
+
+
+---
+
+## Problem Set 6  
+**Name & Link:** Problem Set 6 – [OOP](https://cs50.harvard.edu/python/2022/psets/8/) 
+**Solution:**
+[https://github.com/Haniin911/Cs50_Python_problems_Solutions/tree/main/Problem%20set%208]
+
