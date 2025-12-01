@@ -66,7 +66,7 @@
 
 ---
 
-## Problem Set 6  
+## Problem Set 8  
 **Name & Link:** Problem Set 6 – [OOP](https://cs50.harvard.edu/python/2022/psets/8/) 
 **Solution:**
 [https://github.com/Haniin911/Cs50_Python_problems_Solutions/tree/main/Problem%20set%208]
